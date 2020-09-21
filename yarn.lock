@@ -1656,6 +1656,11 @@
     "@types/testing-library__dom" "*"
     pretty-format "^25.1.0"
 
+"@types/twilio-video@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@types/twilio-video/-/twilio-video-2.7.0.tgz#eb20bcd76c0104ed20755fe733e3141645a41620"
+  integrity sha512-GaMvB9alAdHklKBqBLX0IqUvE5XmJSoQ0Ub4HD69UQt/fwwz+KoDmvHLVfJgYEmoq4ATtmA7Glh10pwa2rux0Q==
+
 "@types/yargs-parser@*":
   version "15.0.0"
   resolved "https://registry.yarnpkg.com/@types/yargs-parser/-/yargs-parser-15.0.0.tgz#cb3f9f741869e20cce330ffbeb9271590483882d"
